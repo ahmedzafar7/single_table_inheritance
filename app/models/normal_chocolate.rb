@@ -1,0 +1,3 @@
+class NormalChocolate < Chocolate
+
+end

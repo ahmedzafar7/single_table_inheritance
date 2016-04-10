@@ -1,0 +1,3 @@
+class DarkChocolate < Chocolate
+
+end

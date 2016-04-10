@@ -1,0 +1,3 @@
+class WhiteChocolate < Chocolate
+
+end
